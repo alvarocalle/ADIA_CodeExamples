@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574956959376.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F400D255",
+    "lastKnownWriteTime" : 1574954126,
+    "last_content_update" : 1574954126,
+    "path" : "~/Documentos/ProdModels_R_Python/rprojects/mlprod/requirements.txt",
+    "project_path" : "requirements.txt",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89afe62a-2868-4e6e-b2dc-9b2f7061cc93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/features/createFeatures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optimized_tradeBTC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baselines/baselines/ddpg/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/baselines/ddpg/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baselines/baselines/ddpg/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/baselines/ddpg/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baselines/baselines/ddpg/ddpg.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/baselines/ddpg/ddpg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baselines/baselines/ddpg/ddpg_learner.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/baselines/ddpg/ddpg_learner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baselines/baselines/ddpg/memory.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/baselines/ddpg/memory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baselines/baselines/ddpg/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/baselines/ddpg/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baselines/baselines/ddpg/noise.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/baselines/ddpg/noise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/BitcoinTradingEnv.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/BitcoinTradingEnv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/indicators.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/indicators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tradeBTC.py" beforeDir="false" afterPath="$PROJECT_DIR$/tradeBTC.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1XI5O66bZcsGT8iRslOUK90QK2x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/env" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/features" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/render" />
+      <recent name="$PROJECT_DIR$/env" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.optimized_tradeBTC">
+    <configuration name="OptBitcoinTradingEnv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TradingRL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/env" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/env/OptBitcoinTradingEnv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="createFeatures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TradingRL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/features" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/features/createFeatures.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="optimized_tradeBTC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TradingRL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/optimized_tradeBTC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="optuna_tradeBTC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TradingRL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/optuna_tradeBTC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tradeBTC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TradingRL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tradeBTC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.optimized_tradeBTC" />
+        <item itemvalue="Python.optuna_tradeBTC" />
+        <item itemvalue="Python.tradeBTC" />
+        <item itemvalue="Python.createFeatures" />
+        <item itemvalue="Python.OptBitcoinTradingEnv" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89afe62a-2868-4e6e-b2dc-9b2f7061cc93" name="Default Changelist" comment="" />
+      <created>1580720732547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580720732547</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1580726834761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580726834761</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <created>1580836856332</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580836856332</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <created>1581355139953</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581355139953</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit 2">
+      <created>1581670127364</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581670127364</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit 3">
+      <created>1581670269477</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581670269477</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit 3">
+      <created>1581942066564</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581942066564</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit 3">
+      <created>1581942140909</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1581942140909</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit 4">
+      <created>1582270970867</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1582270970867</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="commit 2" />
+    <MESSAGE value="commit 3" />
+    <MESSAGE value="commit 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 4" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="778" y="190" width="782" height="912" key="CommitChangelistDialog2" timestamp="1584830063805">
+      <screen x="53" y="27" width="2507" height="1413" />
+    </state>
+    <state x="592" y="1213" width="782" height="912" key="CommitChangelistDialog2/53.27.1867.1053/0.1080.2048.1152@0.1080.2048.1152" timestamp="1581942140871" />
+    <state x="593" y="149" width="782" height="912" key="CommitChangelistDialog2/53.27.1867.1053/0.1080.2048.1152@53.27.1867.1053" timestamp="1582270970767" />
+    <state x="593" y="149" width="777" height="807" key="CommitChangelistDialog2/53.27.1867.1053/1920.0.2048.1152@53.27.1867.1053" timestamp="1581355139788" />
+    <state x="630" y="157" width="782" height="912" key="CommitChangelistDialog2/53.27.1995.1125@53.27.1995.1125" timestamp="1583227414196" />
+    <state x="778" y="190" key="CommitChangelistDialog2/53.27.2507.1413@53.27.2507.1413" timestamp="1584830063805" />
+    <state x="1014" y="408" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585421315265">
+      <screen x="53" y="27" width="2507" height="1413" />
+    </state>
+    <state x="785" y="1390" key="FileChooserDialogImpl/0.1080.2048.1152/128.0.1920.1080@0.1080.2048.1152" timestamp="1583766614678" />
+    <state x="769" y="310" width="424" height="484" key="FileChooserDialogImpl/53.27.1867.1053/0.1080.2048.1152@53.27.1867.1053" timestamp="1581670368599" />
+    <state x="818" y="330" key="FileChooserDialogImpl/53.27.1995.1125@53.27.1995.1125" timestamp="1583784993707" />
+    <state x="1014" y="408" key="FileChooserDialogImpl/53.27.2507.1413@53.27.2507.1413" timestamp="1585421315265" />
+    <state width="1972" height="181" key="GridCell.Tab.0.bottom" timestamp="1588257558564">
+      <screen x="53" y="27" width="1995" height="1125" />
+    </state>
+    <state width="2484" height="211" key="GridCell.Tab.0.bottom/0.1050.2560.1440/407.0.1680.1050@0.1050.2560.1440" timestamp="1584467340809" />
+    <state width="1972" height="321" key="GridCell.Tab.0.bottom/0.1050.2560.1440/407.0.1680.1050@407.0.1680.1050" timestamp="1584469265328" />
+    <state width="1972" height="158" key="GridCell.Tab.0.bottom/0.1080.2048.1152/128.0.1920.1080@0.1080.2048.1152" timestamp="1583433703723" />
+    <state width="1972" height="158" key="GridCell.Tab.0.bottom/0.1080.2048.1152/128.0.1920.1080@128.0.1920.1080" timestamp="1583499625201" />
+    <state width="2025" height="476" key="GridCell.Tab.0.bottom/53.27.1867.1053/0.1080.2048.1152@0.1080.2048.1152" timestamp="1583261842323" />
+    <state width="1972" height="181" key="GridCell.Tab.0.bottom/53.27.1995.1125@53.27.1995.1125" timestamp="1588257558564" />
+    <state width="2484" height="411" key="GridCell.Tab.0.bottom/53.27.2507.1413@53.27.2507.1413" timestamp="1586760712373" />
+    <state width="1972" height="181" key="GridCell.Tab.0.center" timestamp="1588257558563">
+      <screen x="53" y="27" width="1995" height="1125" />
+    </state>
+    <state width="2484" height="211" key="GridCell.Tab.0.center/0.1050.2560.1440/407.0.1680.1050@0.1050.2560.1440" timestamp="1584467340809" />
+    <state width="1972" height="321" key="GridCell.Tab.0.center/0.1050.2560.1440/407.0.1680.1050@407.0.1680.1050" timestamp="1584469265327" />
+    <state width="1972" height="158" key="GridCell.Tab.0.center/0.1080.2048.1152/128.0.1920.1080@0.1080.2048.1152" timestamp="1583433703723" />
+    <state width="1972" height="158" key="GridCell.Tab.0.center/0.1080.2048.1152/128.0.1920.1080@128.0.1920.1080" timestamp="1583499625201" />
+    <state width="2025" height="476" key="GridCell.Tab.0.center/53.27.1867.1053/0.1080.2048.1152@0.1080.2048.1152" timestamp="1583261842323" />
+    <state width="1972" height="181" key="GridCell.Tab.0.center/53.27.1995.1125@53.27.1995.1125" timestamp="1588257558563" />
+    <state width="2484" height="411" key="GridCell.Tab.0.center/53.27.2507.1413@53.27.2507.1413" timestamp="1586760712372" />
+    <state width="1972" height="181" key="GridCell.Tab.0.left" timestamp="1588257558562">
+      <screen x="53" y="27" width="1995" height="1125" />
+    </state>
+    <state width="2484" height="211" key="GridCell.Tab.0.left/0.1050.2560.1440/407.0.1680.1050@0.1050.2560.1440" timestamp="1584467340809" />
+    <state width="1972" height="321" key="GridCell.Tab.0.left/0.1050.2560.1440/407.0.1680.1050@407.0.1680.1050" timestamp="1584469265327" />
+    <state width="1972" height="158" key="GridCell.Tab.0.left/0.1080.2048.1152/128.0.1920.1080@0.1080.2048.1152" timestamp="1583433703723" />
+    <state width="1972" height="158" key="GridCell.Tab.0.left/0.1080.2048.1152/128.0.1920.1080@128.0.1920.1080" timestamp="1583499625201" />
+    <state width="2025" height="476" key="GridCell.Tab.0.left/53.27.1867.1053/0.1080.2048.1152@0.1080.2048.1152" timestamp="1583261842322" />
+    <state width="1972" height="181" key="GridCell.Tab.0.left/53.27.1995.1125@53.27.1995.1125" timestamp="1588257558562" />
+    <state width="2484" height="411" key="GridCell.Tab.0.left/53.27.2507.1413@53.27.2507.1413" timestamp="1586760712372" />
+    <state width="1972" height="181" key="GridCell.Tab.0.right" timestamp="1588257558563">
+      <screen x="53" y="27" width="1995" height="1125" />
+    </state>
+    <state width="2484" height="211" key="GridCell.Tab.0.right/0.1050.2560.1440/407.0.1680.1050@0.1050.2560.1440" timestamp="1584467340809" />
+    <state width="1972" height="321" key="GridCell.Tab.0.right/0.1050.2560.1440/407.0.1680.1050@407.0.1680.1050" timestamp="1584469265328" />
+    <state width="1972" height="158" key="GridCell.Tab.0.right/0.1080.2048.1152/128.0.1920.1080@0.1080.2048.1152" timestamp="1583433703723" />
+    <state width="1972" height="158" key="GridCell.Tab.0.right/0.1080.2048.1152/128.0.1920.1080@128.0.1920.1080" timestamp="1583499625201" />
+    <state width="2025" height="476" key="GridCell.Tab.0.right/53.27.1867.1053/0.1080.2048.1152@0.1080.2048.1152" timestamp="1583261842323" />
+    <state width="1972" height="181" key="GridCell.Tab.0.right/53.27.1995.1125@53.27.1995.1125" timestamp="1588257558563" />
+    <state width="2484" height="411" key="GridCell.Tab.0.right/53.27.2507.1413@53.27.2507.1413" timestamp="1586760712373" />
+    <state x="620" y="242" key="SettingsEditor" timestamp="1585814603839">
+      <screen x="53" y="27" width="2507" height="1413" />
+    </state>
+    <state x="475" y="187" key="SettingsEditor/53.27.1867.1053/1920.0.2048.1152@53.27.1867.1053" timestamp="1580726801180" />
+    <state x="620" y="242" key="SettingsEditor/53.27.2507.1413@53.27.2507.1413" timestamp="1585814603839" />
+    <state x="762" y="377" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1584830096481">
+      <screen x="53" y="27" width="2507" height="1413" />
+    </state>
+    <state x="579" y="1366" width="800" height="528" key="Vcs.Push.Dialog.v2/53.27.1867.1053/0.1080.2048.1152@0.1080.2048.1152" timestamp="1581942152185" />
+    <state x="581" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/53.27.1867.1053/0.1080.2048.1152@53.27.1867.1053" timestamp="1582270988977" />
+    <state x="581" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/53.27.1867.1053/1920.0.2048.1152@53.27.1867.1053" timestamp="1581355150211" />
+    <state x="617" y="306" key="Vcs.Push.Dialog.v2/53.27.1995.1125@53.27.1995.1125" timestamp="1581898346901" />
+    <state x="762" y="377" key="Vcs.Push.Dialog.v2/53.27.2507.1413@53.27.2507.1413" timestamp="1584830096481" />
+    <state x="850" y="509" width="939" height="720" key="com.intellij.ide.util.TipDialog" timestamp="1586100548058">
+      <screen x="53" y="27" width="2507" height="1413" />
+    </state>
+    <state x="814" y="1541" key="com.intellij.ide.util.TipDialog/0.1050.2560.1440/407.0.1680.1050@0.1050.2560.1440" timestamp="1584467232226" />
+    <state x="941" y="358" key="com.intellij.ide.util.TipDialog/0.1050.2560.1440/407.0.1680.1050@407.0.1680.1050" timestamp="1584358933442" />
+    <state x="646" y="1466" key="com.intellij.ide.util.TipDialog/0.1080.2048.1152/128.0.1920.1080@0.1080.2048.1152" timestamp="1583837065493" />
+    <state x="733" y="362" key="com.intellij.ide.util.TipDialog/0.1080.2048.1152/128.0.1920.1080@128.0.1920.1080" timestamp="1583401816603" />
+    <state x="658" y="386" key="com.intellij.ide.util.TipDialog/0.1080.2048.1152/53.27.1902.1053@53.27.1902.1053" timestamp="1584290227616" />
+    <state x="925" y="362" key="com.intellij.ide.util.TipDialog/0.1080.2560.1440/320.0.1920.1080@320.0.1920.1080" timestamp="1583999283803" />
+    <state x="646" y="1466" key="com.intellij.ide.util.TipDialog/53.27.1867.1053/0.1080.2048.1152@0.1080.2048.1152" timestamp="1581956833354" />
+    <state x="642" y="380" key="com.intellij.ide.util.TipDialog/53.27.1867.1053/0.1080.2048.1152@53.27.1867.1053" timestamp="1583242488444" />
+    <state x="642" y="380" key="com.intellij.ide.util.TipDialog/53.27.1867.1053/1920.0.2048.1152@53.27.1867.1053" timestamp="1581422360931" />
+    <state x="682" y="404" key="com.intellij.ide.util.TipDialog/53.27.1995.1125@53.27.1995.1125" timestamp="1583954140832" />
+    <state x="850" y="509" width="939" height="720" key="com.intellij.ide.util.TipDialog/53.27.2507.1413@53.27.2507.1413" timestamp="1586100548058" />
+    <state x="707" y="1355" width="542" height="628" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1581942023024">
+      <screen x="0" y="1080" width="2048" height="1152" />
+    </state>
+    <state x="707" y="1355" width="542" height="628" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/53.27.1867.1053/0.1080.2048.1152@0.1080.2048.1152" timestamp="1581942023024" />
+    <state x="802" y="502" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583227060130">
+      <screen x="53" y="27" width="1995" height="1125" />
+    </state>
+    <state x="754" y="472" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/53.27.1867.1053/1920.0.2048.1152@53.27.1867.1053" timestamp="1581351707082" />
+    <state x="802" y="502" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/53.27.1995.1125@53.27.1995.1125" timestamp="1583227060130" />
+    <state x="713" y="245" width="672" height="678" key="search.everywhere.popup" timestamp="1583965994248">
+      <screen x="53" y="27" width="1995" height="1125" />
+    </state>
+    <state x="713" y="245" width="672" height="678" key="search.everywhere.popup/53.27.1995.1125@53.27.1995.1125" timestamp="1583965994248" />
+  </component>
+</project>

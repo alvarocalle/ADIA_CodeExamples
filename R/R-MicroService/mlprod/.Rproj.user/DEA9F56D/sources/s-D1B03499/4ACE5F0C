@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574853435867.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4ACE5F0C",
+    "lastKnownWriteTime" : 1574961758,
+    "last_content_update" : 1574961758383,
+    "path" : "~/Documentos/ProdModels_R_Python/rprojects/mlprod/model_train.R",
+    "project_path" : "model_train.R",
+    "properties" : {
+        "cursorPosition" : "20,29",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

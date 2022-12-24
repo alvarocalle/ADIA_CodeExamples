@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574853440821.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BF989513",
+    "lastKnownWriteTime" : 1574961745,
+    "last_content_update" : 1574961745811,
+    "path" : "~/Documentos/ProdModels_R_Python/rprojects/mlprod/model_scoring.R",
+    "project_path" : "model_scoring.R",
+    "properties" : {
+        "cursorPosition" : "12,31",
+        "disableDependencyDiscovery" : "1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

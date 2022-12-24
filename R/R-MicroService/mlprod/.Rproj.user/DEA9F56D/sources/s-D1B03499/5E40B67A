@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574872631054.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2629003077",
+    "id" : "5E40B67A",
+    "lastKnownWriteTime" : 1575019827,
+    "last_content_update" : 1575019827797,
+    "path" : "~/Documentos/ProdModels_R_Python/rprojects/mlprod/data.json",
+    "project_path" : "data.json",
+    "properties" : {
+        "cursorPosition" : "0,188",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "json"
+}

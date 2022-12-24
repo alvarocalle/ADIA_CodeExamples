@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575019016962.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DA8FC60C",
+    "lastKnownWriteTime" : 1575019042,
+    "last_content_update" : 1575019042167,
+    "path" : "~/Documentos/ProdModels_R_Python/rprojects/mlprod/Dockerfile",
+    "project_path" : "Dockerfile",
+    "properties" : {
+        "cursorPosition" : "0,11",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

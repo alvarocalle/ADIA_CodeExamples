@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574857749717.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D09EFA2A",
+    "lastKnownWriteTime" : 1574858919,
+    "last_content_update" : 1574858919973,
+    "path" : "~/Documentos/ProdModels_R_Python/rprojects/mlprod/api.R",
+    "project_path" : "api.R",
+    "properties" : {
+        "cursorPosition" : "3,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

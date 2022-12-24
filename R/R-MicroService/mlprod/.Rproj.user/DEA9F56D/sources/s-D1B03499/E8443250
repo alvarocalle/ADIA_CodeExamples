@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575016303831.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E8443250",
+    "lastKnownWriteTime" : 1575016356,
+    "last_content_update" : 1575016356383,
+    "path" : "~/Documentos/ProdModels_R_Python/rprojects/mlprod/deploy.R",
+    "project_path" : "deploy.R",
+    "properties" : {
+        "cursorPosition" : "6,28",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

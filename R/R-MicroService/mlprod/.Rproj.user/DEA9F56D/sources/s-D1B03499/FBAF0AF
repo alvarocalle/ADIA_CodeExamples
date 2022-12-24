@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574943568761.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "655465692",
+    "id" : "FBAF0AF",
+    "lastKnownWriteTime" : 1575026736,
+    "last_content_update" : 1575026736501,
+    "path" : "~/Documentos/ProdModels_R_Python/rprojects/mlprod/install_libs.R",
+    "project_path" : "install_libs.R",
+    "properties" : {
+        "cursorPosition" : "18,2",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
